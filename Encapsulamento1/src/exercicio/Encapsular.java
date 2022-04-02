@@ -1,7 +1,8 @@
 package exercicio;
 
 public class Encapsular {
-        //Alterado do paulo  
+        //Alterado do paulo 
+	    //Alterado do paulo
 	public int numeroDeAvaliacao;
 	public static int totalAvaliacao;
 	
