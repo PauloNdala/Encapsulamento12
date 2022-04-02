@@ -1,7 +1,7 @@
 package exercicio;
 
 public class Encapsular {
-
+        //Alterado do paulo  
 	public int numeroDeAvaliacao;
 	public static int totalAvaliacao;
 	
@@ -9,7 +9,7 @@ public class Encapsular {
 	
 	public Encapsular Avaliacao() {
 		
-		//Incrementando o numero de Avalição---
+		//Incrementando o numero de AvaliÃ§Ã£o---
 		
 		this.numeroDeAvaliacao++;
 		Encapsular.totalAvaliacao++;
